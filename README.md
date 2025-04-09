@@ -1,6 +1,6 @@
 # Iconic Commits
 
-[![Iconic Commits](https://img.shields.io/badge/Iconic%20Commits-0.1.0-%23ffdd67?style=for-the-badge)](#)
+[![Iconic Commits](https://img.shields.io/badge/Iconic%20Commits-0.1.0-%23ffdd67?style=for-the-badge)](https://github.com/IconicCommits/specification)
 
 This repo is the home of the Iconic Commits specification.
 
@@ -15,7 +15,7 @@ to send a pull request.
 Tell your users that you use the Iconic Commits specification:
 
 ```markdown
-[![Iconic Commits](https://img.shields.io/badge/Iconic%20Commits-0.1.0-%23ffdd67?style=for-the-badge)](#)
+[![Iconic Commits](https://img.shields.io/badge/Iconic%20Commits-0.1.0-%23ffdd67?style=for-the-badge)](https://github.com/IconicCommits/specification)
 ```
 
 ## Thank you
