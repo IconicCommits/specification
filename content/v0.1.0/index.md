@@ -1,8 +1,3 @@
----
-draft: false
-aliases: ["/en/"]
----
-
 # Iconic Commits 0.1.0
 
 ## Summary
